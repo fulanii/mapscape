@@ -25,3 +25,6 @@ pip install -r requirements.txt
     * business_type
     * business_city
     * business_state_or_country
+
+## Demo
+![dome](/mapscrape.gif)

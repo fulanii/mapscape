@@ -120,8 +120,8 @@ class Bot:
 
 if __name__ == "__main__":
     business_type = "barbershop"
-    business_city = "detroit"
-    business_state_or_country = "Mi"
+    business_city = "Bozeman"
+    business_state_or_country = "Montana"
 
     test = Bot(business_type, business_city, business_state_or_country)
 
