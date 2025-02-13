@@ -1,7 +1,6 @@
 ## MapScape
 
-A Selenium bot built with python, that scrape's publically avaible business data form Google maps.
-
+A Selenium bot built with python, that scrape's publicly available business data form Google maps and save it to a text file.
 ## Instalation
 1. Clone the repository:
 
