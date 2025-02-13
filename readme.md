@@ -6,8 +6,8 @@ A Selenium bot built with python, that scrape's publically avaible business data
 1. Clone the repository:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/fulanii/mapscape.git
+cd mapscape
 ```
 
 2. Set up a virtual environment:
