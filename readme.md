@@ -26,5 +26,10 @@ pip install -r requirements.txt
     * business_city
     * business_state_or_country
 
+4. run bot.py
+```bash
+python bot.py
+```
+
 ## Demo
 ![dome](/mapscrape.gif)
